@@ -80,10 +80,21 @@ Se desarrollaron dos modelos:
 
 ## Resultados
 
-- Identificación de variables relevantes en la severidad
-- Generación de mapas de calor por región
+- Identificación de variables clave en la severidad
+- Generación de mapas de calor a nivel nacional y de Antioquia
 - Modelos con capacidad de clasificación aceptable
 - Dashboard interactivo para análisis dinámico
+- Modelo predictivo funcional
+
+## Conclusion
+
+El proyecto demuestra cómo la aplicación de técnicas de analítica de datos y aprendizaje automático permite transformar datos históricos en información estratégica.
+
+Los resultados obtenidos evidencian la viabilidad de utilizar modelos predictivos como apoyo a la toma de decisiones en seguridad vial.
+
+## Datos
+- El Dataset no se incluye en el repositorio debido a su tamaño, puede descargarse desde la pagina Datos Abiertos
+- link: https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk/about_data
 
 ## Cómo ejecutar
 
