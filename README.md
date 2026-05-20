@@ -136,6 +136,7 @@ Explorar datos a nivel de municipio en Antioquia
 ![Top 10 Departamentos](outputs/images/top_departamentos_barh.png)
 ![Correlacion](outputs/images/correlacion.png)
 ![Vehiculos involucrados en Antioquia](outputs/images/vehiculos_antioquia.png)
+Para mas informacion y visualizacion del dashboard, Pueden verlo en 📁 dashboard/
 
 📌 Conclusión
 
@@ -149,9 +150,17 @@ Puede descargarse desde Datos Abiertos Colombia:
 
 https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk/about_data
 
+
+## Autor
+Carlos Alberto Ortega Villa
+Estudiante de Ingeniería de Sistemas
+Universidad Popular del Cesar
+
+
 ### ▶️ Ejecutar API
 
 ```bash
+cd api  
 uvicorn main:app --reload
 
 
@@ -193,8 +202,3 @@ Instalar dependencias
 pip install -r requirements.txt
 Ejecutar notebooks o API
 
-Autor
-
-Carlos Alberto Ortega Villa
-Estudiante de Ingeniería de Sistemas
-Universidad Popular del Cesar
