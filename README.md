@@ -136,7 +136,11 @@ Explorar datos a nivel de municipio en Antioquia
 ![Top 10 Departamentos](outputs/images/top_departamentos_barh.png)
 ![Correlacion](outputs/images/correlacion.png)
 ![Vehiculos involucrados en Antioquia](outputs/images/vehiculos_antioquia.png)
-Para mas informacion y visualizacion del dashboard, Pueden verlo en 📁 dashboard/
+
+Visualizacion del Dashboard
+![Dashboard](<outputs/images/Vista general del Dashboard.png>)
+Para mas informacion y visualizacion del dashboard
+[Version completa en pdf](<dashboard/Dashboard Accidentalidad.pdf>)
 
 📌 Conclusión
 
